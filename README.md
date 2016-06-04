@@ -1,2 +1,3 @@
 # vue-tuto
-Tutoriel inspiré de laracast sur vue.js
+Tutoriel inspiré de laracasts sur vue.js
+https://laracasts.com/series/learning-vue-step-by-step
